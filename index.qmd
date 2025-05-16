@@ -1,0 +1,84 @@
+
+<div class="hero">
+  <h1>Viviana Ugalde</h1>
+  <h3>Business Consultant | Architect | MBA Candidate</h3>
+</div>
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="viv.jpeg" alt="Viviana Ugalde" style="border-radius: 50%; width: 220px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+</div>
+
+## About Me
+
+**Business Consultant, Architect & Urban Designer**  
+
+*“My passion is designing business strategies beyond building drawings.”*
+
+I began my career as an architect and urban designer. I loved creating spaces that made sense. But my life transitioned; I moved to Vancouver, Canada, to study for an MBA, finishing in Fall 2025.
+
+For me, it’s been a huge step so far, not just for my career, but because of who I’m becoming. I’m figuring out how to bring that same creative mindset into the world of business. It’s like blending two lives into one. And maybe this sounds like a huge challenge or roadblock, but for me it is my passion; I see it as a world of new possibilities.
+
+In parallel, I co-founded a new startup, a consulting firm based in British Columbia: BusinessBear. The company is focused on providing affordable, personalized services for small businesses and entrepreneurs.
+
+So, I no longer just build and design physical spaces. Now I also sculpt and craft new business ideas, implement strategies, and redefine processes.
+
+That’s the kind of legacy I want to help build.
+
+---
+
+## Education
+
+**Master in Business Administration (MBA)** *(in progress)*  
+University Canada West — Vancouver, Canada  
+Jan 2024 – Sep 2025  
+Areas of Interest: Strategy, Consulting, and Sustainability
+
+**Bachelor’s Degree in Architecture & Urban Design** *(Graduated with Honors)*  
+Universidad Iberoamericana — Mexico City, Mexico (1996)
+
+---
+
+## Work Experience
+
+**Co-Founder & Business Consultant** – *BusinessBear*, British Columbia (2025–Present)  
+Focused on advising small businesses and entrepreneurs with strategic advice in planning, branding, and operations challenges.
+
+**Seasonal Educator** – *Lululemon*, Coquitlam (2024–2025)  
+Guest services, mentoring, retail sales, and operations.
+
+**Operations Coordinator & Business Co-Founder** – *Concepto 25*, Cuernavaca (2018–2023)  
+Led day-to-day operations, finance, strategy, sales, HR, process improvement, and client experience like Walmart.
+
+**Senior Associate Corporate Accounts** – *CBRE*, Mexico City (2012–2018)  
+Led cross-functional teams of Fortune 500 companies in Latin America. Real estate strategy and relocation projects. Developed market insights, negotiated, and mentored junior consultants.
+
+---
+
+## Certifications
+
+- Digital Marketing Associate, CDMA, 2025, Vancouver  
+- Business Analytics, Simplilearn, 2024  
+- Microsoft Office Specialist, LinkedIn Learning, 2024  
+- Commercial Real Estate, ITAM, 2008, Mexico City  
+- Certificate in Gestalt Therapy and Humanistic Approach, IHPG, 2004, Mexico  
+- Project Management, PMI, *in progress*, Vancouver
+
+---
+
+## Skills
+
+**Strategic & Human Skills**  
+Critical Thinking • Leadership • Communication • Problem Solving • Business Strategy • Change Management • Teaching & Mentorship • Active Listening • Cross-functional Collaboration • Bilingual Communication (English & Spanish) • Customer Experience Design • Project Management • Sustainability Awareness • Creativity • Storytelling • Planning • Adaptability • Multitasking
+
+**Technical & Business Tools**  
+Quarto • GitHub Pages • Microsoft Office Suite (Advanced) • CRM Tools • Digital Productivity Platforms • Prompting & Ethical AI Use • Data Analysis & Reporting • Presentation & Visual Design • Canvas • AutoCAD • Adobe Suite • Marketing & Campaign Planning
+
+---
+
+## Contact & Links
+
+Thank you for your visit.
+
+📧 **Email:** viugalde@icloud.com  
+🔗 **LinkedIn:** [linkedin.com/in/vivianaugalde](https://linkedin.com/in/vivianaugalde)  
+🌐 **BusinessBear:** [https://businessbear.ca](https://businessbear.ca)
